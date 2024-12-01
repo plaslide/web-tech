@@ -1,1 +1,55 @@
+body {
+  background-color: #E0C9AF;
+  margin: 0;
+  padding: 0;
+  font-family: Quattrocento Sans, sans-serif;
+}
+
+h1, h4 {
+  text-align: center;
+  font-family: Quattrocento Sans;
+}
+
+.container {
+  font-size: 40px;
+  width: 90%;
+  margin: 20px auto;
+  background: White;
+  padding-top: 20px;
+  padding-bottom: 20px; 
+  border-radius: 10px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#img-div {
+  width: 100%;
+  margin: 0 auto;
+}
+
+#image {
+  width: 80%; 
+  max-width: 400px; 
+  height: auto;
+  display: block;
+  margin: 5vw auto 20px; 
+}
+
+p {
+  font-size: 18px;
+  font-family: Quattrocento Sans;
+  text-align: center;
+  margin-top: 10px; 
+}
+
+ul {
+  list-style-position: inside;
+  font-family: Quattrocento Sans;
+  padding-left: 0; 
+}
+
+li {
+  padding-bottom: 20px;
+  text-align: left; 
+  margin-left: 10%; 
+}
 
